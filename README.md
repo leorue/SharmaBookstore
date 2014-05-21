@@ -20,12 +20,12 @@ Sharma Bookstore currently does not have any documention; however, we will answe
 Authors
 ===========
 
-Cuore CompanyFace is made available by [Cuore Technology](http://cuore.io) and a team of contributors.
+Sharma Bookstore is made available by [Santa Clara University Computer Engineering](http://www.scu.edu/engineering/cse/grad/degrees.cfm) and a team of student contributors.
 
 -----------------------
 
 *   Lead Developer: [Leo Schultz](https://github.com/Leeboy6610)
-*   Lead Developer: [Sarvesh Sharma](https://github.com/)
+*   Backend Developer: [Sarvesh Sharma](https://github.com/)
 
 Architecture
 ===========
@@ -35,3 +35,21 @@ Architecture
 ####Database: Postgres DB
 ####Templating Engine: Blade Templates
 ####Shopping Cart Package: Moltin
+
+Modules
+===========
+
+*   Authentication screen
+*   Main menu (navigate from and to)
+*   Manage user account: View & Update email/name/address/password/cr.card
+*   Manage user account: View transactions ordered by date
+*   Search: Keyword search across all fields
+*   Search: Navigate in search results
+*   Search: Return to search menu
+*   Search & Purchase: Select type of book
+*   Search & Purchase: Show book choices & registered credit cards
+*   Search & Purchase: Check - out (select card & confirm transaction)
+*   Search & Purchase: Cancel transaction & return to search menu
+*   Error messages
+*   Show books/genre
+*   Rating
