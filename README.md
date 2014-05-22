@@ -269,10 +269,6 @@ Try using this with doing the install instead.
 
     composer install --dev --prefer-source --no-interaction
 
-## License
-
-This is free software distributed under the terms of the MIT license
-
 ## Additional information
 
 Inspired by and based on [laravel4-starter-kit](https://github.com/brunogaspar/laravel4-starter-kit)
