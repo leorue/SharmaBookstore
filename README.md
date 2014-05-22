@@ -25,7 +25,7 @@ Sharma Bookstore is made available by [Santa Clara University Computer Engineeri
 -----------------------
 
 *   Lead Developer: [Leo Schultz](https://github.com/Leeboy6610)
-*   Backend Developer: [Sarvesh Sharma](https://github.com/)
+*   Backend Developer: [Sarvesh Sharma](https://github.com/Sarvesh44)
 
 Architecture
 ===========
